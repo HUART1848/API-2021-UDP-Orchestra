@@ -1,0 +1,41 @@
+origin	https://github.com/HUART1848/API-2021-UDP-Orchestra.git (fetch)
+origin	https://github.com/HUART1848/API-2021-UDP-Orchestra.git (push)
+upstream	https://github.com/HEIGVD-Course-API/API-2021-UDP-Orchestra.git (fetch)
+upstream	https://github.com/HEIGVD-Course-API/API-2021-UDP-Orchestra.git (push)
+Starting auditor container "25cdc302baea961482fe4d93dbafea700f6fd036a6b72c1ec7dff084d413d65b"
+Starting auditor container "e0837c4ed022db762021febf0cb5ecbd78355f71268b2de740cdbfa59ea6ac24"
+Starting auditor container "8ccd9866cdfec9839eab23aaf5c24466bd71a22e2f00d89fa34683ace0f43798"
+Starting auditor container "b2309985dea706f963906248a3ed09ce913913f2a1f9a96be91b00fff8057df9"
+Starting auditor container "92d5d5b4c530e9d095001977501e0eadf030737a65806e44d77f9f79ee36f6fb"
+Starting auditor container "754595f6fb00bce60e6fbbdf5c3ca82a87ee401edec2487e4344016410cedb08"
+Starting auditor container "314ede1014b4f5cbd605e7369cac697c3c31de1c958662dd31cd510e7c2c31c1"
+Starting auditor container "5a617364f99f89aaf45740a91fb8c59056d7b6beaf7fadb2b81361607b4087e6"
+Starting auditor container "03bf3e226b026861ae070b179d87cf756b6c2228070b984e242dcbbaefc45c52"
+Starting auditor container "68090e636428c228777360e41e219fc36a50088334638e7e408b42e8da4b1875"
+Starting auditor container "b83f1e8837b1a4dd14cd035f3f28d13d83302bae4b369ed8e227e3ac857877f3"
+11 containers have been started.
+25cdc302baea961482fe4d93dbafea700f6fd036a6b72c1ec7dff084d413d65b : index.js,trumpet
+8ccd9866cdfec9839eab23aaf5c24466bd71a22e2f00d89fa34683ace0f43798 : index.js,piano
+314ede1014b4f5cbd605e7369cac697c3c31de1c958662dd31cd510e7c2c31c1 : index.js,violin
+03bf3e226b026861ae070b179d87cf756b6c2228070b984e242dcbbaefc45c52 : index.js,flute
+5a617364f99f89aaf45740a91fb8c59056d7b6beaf7fadb2b81361607b4087e6 : index.js,piano
+92d5d5b4c530e9d095001977501e0eadf030737a65806e44d77f9f79ee36f6fb : index.js,piano
+b83f1e8837b1a4dd14cd035f3f28d13d83302bae4b369ed8e227e3ac857877f3 : index.js,trumpet
+b2309985dea706f963906248a3ed09ce913913f2a1f9a96be91b00fff8057df9 : index.js,violin
+754595f6fb00bce60e6fbbdf5c3ca82a87ee401edec2487e4344016410cedb08 : index.js,trumpet
+68090e636428c228777360e41e219fc36a50088334638e7e408b42e8da4b1875 : index.js,flute
+e0837c4ed022db762021febf0cb5ecbd78355f71268b2de740cdbfa59ea6ac24 : node,--experimental-modules,index.js
+Auditor validation: success: []
+There are no musicians to kill.
+Auditor validation: success: []
+Scheduling a new test
+There are no musicians to kill.
+Auditor validation: success: []
+Scheduling a new test
+There are no musicians to kill.
+Auditor validation: success: []
+Scheduling a new test
+There are no musicians to kill.
+Auditor validation: success: []
+Scheduling a new test
+We have done all tests.
