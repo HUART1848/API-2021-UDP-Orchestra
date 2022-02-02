@@ -2,11 +2,11 @@ FROM node:alpine
 
 WORKDIR /opt/app
 
-COPY package*.json ./
+COPY src/package*.json ./
 
 RUN npm install
 
-COPY index.js .
+COPY src/index.js .
 
 EXPOSE 2205
 

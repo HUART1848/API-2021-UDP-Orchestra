@@ -1,2 +1,1 @@
-#!/usr/bin/sh
-docker build -t image-musician .
+docker build -t api/musician .
