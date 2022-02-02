@@ -24,4 +24,3 @@ const socket = dgram.createSocket("udp4");
 const uuid = uuidv4();
 
 setInterval(() => socket.send(JSON.stringify({uuid:uuid, sound:sound}), PORT, ADDRESS), INTERVAL);
-1
