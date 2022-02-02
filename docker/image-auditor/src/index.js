@@ -20,8 +20,9 @@ function handleMusician(msg) {
     let sound = JSON.parse(msg);
     let musician = musicians.get(sound.uuid);
 
+    // Updating lastSeen value or setting for the first time
     if (musician != undefined && now - musician.lastSeen <= INTERVAL)
-        musicians.set(sound.uuid, {instrument:musician.instrument, firstSeen:musician.first, lastSeen:now});
+        musicians.set(sound.uuid, {instrument:musician.instrument, firstSeen:musician.firstSeen, lastSeen:now});
     else
         musicians.set(sound.uuid, {instrument:INSTRUMENTS.get(sound.sound), firstSeen:now, lastSeen:now});
 }
@@ -36,7 +37,7 @@ function handleConnection(socket) {
         }
         return true;
     }).map(([key, value]) => {
-        return {uuid:key, instrument:value.instrument, activeSince: new Date(value.firstSeen)};
+        return {uuid:key, instrument:value.instrument, activeSince:new Date(value.firstSeen)};
     }));
 
     socket.write(msg + "\n");

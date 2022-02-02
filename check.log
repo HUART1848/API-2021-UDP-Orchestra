@@ -2,26 +2,40 @@ origin	https://github.com/HUART1848/API-2021-UDP-Orchestra.git (fetch)
 origin	https://github.com/HUART1848/API-2021-UDP-Orchestra.git (push)
 upstream	https://github.com/HEIGVD-Course-API/API-2021-UDP-Orchestra.git (fetch)
 upstream	https://github.com/HEIGVD-Course-API/API-2021-UDP-Orchestra.git (push)
-Starting auditor container "46a6630e4b28d47f730d12b29690d91ce1ec9df1b69c89d7f17eee1de932e3e7"
-Starting auditor container "d84fa796c0101c334d6cef2ed4b04f45c77190cf5136314584ec5dc8973fb3d7"
-Starting auditor container "e12cd3e52fae2f38a6b099279a2b7857f45cc9b6b9919e096783e4e3e47249ec"
-Starting auditor container "efa4068efad9a768d6b1ea65d0e068b6c6bc63b7aff2a8f4ffedf2b353b90226"
-Starting auditor container "94c7cbf5567d7f9368e107fd475cd1f24e11cd7457048ceff1eddc9393c9c875"
-Starting auditor container "384772d740cf3258eb0c65ea6bddf85d1b32dc1174429f47c0aec67c9865547b"
-Starting auditor container "20fea4643579c2e761ce2b0292fec607a5cf6b5f785be3098e4ad26720e9a54e"
-Starting auditor container "cf98ab10d4956582c20883ac56c531589750e483589a1c6c0fb1b1e3bc852b39"
-Starting auditor container "4d55055aeb8d35037bc9725280cba00514ce4e72562efa256d92ebd40418df3f"
-Starting auditor container "e67f4e438598609b9bfb0d25c304de72cf583857c8a4b96188c081565254119f"
-Starting auditor container "29d3436130e88ff1fce2f0473f743044e0ffd0ec3a6da2fab026e179b3cf8482"
+Starting auditor container "212991effee1b88ad2faa4e7c944b3d9f96aee6931f5a0e10df2c6907159ce71"
+Starting auditor container "4dea07d147b24db99031dd314be976012f7f97a327d94bfc33704ec62f004c3e"
+Starting auditor container "88ab235d8f7750789a94db1bfd8649f5176d1ec62e0c240d79c133816702984f"
+Starting auditor container "25bdc2dd2a133f987633c82b77e4e4e33eb2b2c664551c75a82a932f9c48d976"
+Starting auditor container "4354385c82d7850e1759d27d25cc39e42af38c7ce9c6a773a3f0934948728cd3"
+Starting auditor container "83126db6142ae2f59186ad26a883465dd92bbd69f27e27e9b3e1cbe60f9218cc"
+Starting auditor container "5f54ae21b2f4b9d4c5c99ffadffb418e9ccc93f51d9bc1fd89ac99a6cb0e700a"
+Starting auditor container "b98b0701ca663022a2d503cc49a50829092ef0cc247e93df1b8cf7090c2e1fea"
+Starting auditor container "2bf7afb1631954eefb10dea5b711b8dbee35c12393413742f07f9aae761b010d"
+Starting auditor container "83fc614c034e8487f5f7dd376b5bf8260d15c46e5eda8586b6c6ce8e7a7c7a64"
+Starting auditor container "276dc9b22f086637ffeb1ab1452b6b8bf7e40fb927f0ee28415b25ba9a19eb1c"
 11 containers have been started.
-46a6630e4b28d47f730d12b29690d91ce1ec9df1b69c89d7f17eee1de932e3e7 : --experimental-modules,index.js,piano
-94c7cbf5567d7f9368e107fd475cd1f24e11cd7457048ceff1eddc9393c9c875 : --experimental-modules,index.js,trumpet
-efa4068efad9a768d6b1ea65d0e068b6c6bc63b7aff2a8f4ffedf2b353b90226 : --experimental-modules,index.js,violin
-384772d740cf3258eb0c65ea6bddf85d1b32dc1174429f47c0aec67c9865547b : --experimental-modules,index.js,trumpet
-29d3436130e88ff1fce2f0473f743044e0ffd0ec3a6da2fab026e179b3cf8482 : --experimental-modules,index.js,trumpet
-20fea4643579c2e761ce2b0292fec607a5cf6b5f785be3098e4ad26720e9a54e : --experimental-modules,index.js,violin
-cf98ab10d4956582c20883ac56c531589750e483589a1c6c0fb1b1e3bc852b39 : --experimental-modules,index.js,violin
-e12cd3e52fae2f38a6b099279a2b7857f45cc9b6b9919e096783e4e3e47249ec : --experimental-modules,index.js,drum
-4d55055aeb8d35037bc9725280cba00514ce4e72562efa256d92ebd40418df3f : --experimental-modules,index.js,drum
-e67f4e438598609b9bfb0d25c304de72cf583857c8a4b96188c081565254119f : --experimental-modules,index.js,piano
-d84fa796c0101c334d6cef2ed4b04f45c77190cf5136314584ec5dc8973fb3d7 : node,--experimental-modules,index.js
+212991effee1b88ad2faa4e7c944b3d9f96aee6931f5a0e10df2c6907159ce71 : index.js,piano
+4354385c82d7850e1759d27d25cc39e42af38c7ce9c6a773a3f0934948728cd3 : index.js,violin
+b98b0701ca663022a2d503cc49a50829092ef0cc247e93df1b8cf7090c2e1fea : index.js,violin
+2bf7afb1631954eefb10dea5b711b8dbee35c12393413742f07f9aae761b010d : index.js,piano
+83fc614c034e8487f5f7dd376b5bf8260d15c46e5eda8586b6c6ce8e7a7c7a64 : index.js,violin
+5f54ae21b2f4b9d4c5c99ffadffb418e9ccc93f51d9bc1fd89ac99a6cb0e700a : index.js,drum
+4dea07d147b24db99031dd314be976012f7f97a327d94bfc33704ec62f004c3e : index.js,violin
+276dc9b22f086637ffeb1ab1452b6b8bf7e40fb927f0ee28415b25ba9a19eb1c : index.js,piano
+88ab235d8f7750789a94db1bfd8649f5176d1ec62e0c240d79c133816702984f : index.js,flute
+83126db6142ae2f59186ad26a883465dd92bbd69f27e27e9b3e1cbe60f9218cc : index.js,drum
+25bdc2dd2a133f987633c82b77e4e4e33eb2b2c664551c75a82a932f9c48d976 : node,--experimental-modules,index.js
+Auditor validation: success: []
+There are no musicians to kill.
+Auditor validation: success: []
+Scheduling a new test
+There are no musicians to kill.
+Auditor validation: success: []
+Scheduling a new test
+There are no musicians to kill.
+Auditor validation: success: []
+Scheduling a new test
+There are no musicians to kill.
+Auditor validation: success: []
+Scheduling a new test
+We have done all tests.
