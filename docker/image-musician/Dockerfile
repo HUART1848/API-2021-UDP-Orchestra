@@ -10,4 +10,5 @@ COPY src/index.js .
 
 EXPOSE 2205
 
-CMD ["node", "--experimental-modules" ,"index.js"]
+# ENTRYPOINT instead of CMD to be able to use CLI arguments
+ENTRYPOINT ["node", "--experimental-modules", "index.js"]

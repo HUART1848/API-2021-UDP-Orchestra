@@ -18,6 +18,7 @@ const sound = INSTRUMENTS.get(process.argv[2]);
 
 if (sound == undefined) {
     console.error("Unknown instrument \"" + process.argv[2] + "\"");
+    process.exit();
 }
 
 const socket = dgram.createSocket("udp4");
