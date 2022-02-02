@@ -1,12 +1,11 @@
 import dgram from "dgram";
 import { v4 as uuidv4 } from "uuid";
 
-// Informations réseau
+// UDP Informations
 const ADDRESS = "239.0.0.1";
 const PORT = "1234";
 
 const INTERVAL  = 1000;
-
 const INSTRUMENTS = new Map([["piano", "ti-ta-ti"], ["trumpet", "pouet"], ["flute", "trulu"], ["violin", "gzi-gzi"], ["drum", "boum-boum"]]);
 
 if (process.argv.length != 3) {
