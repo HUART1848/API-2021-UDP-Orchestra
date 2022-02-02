@@ -1,0 +1,27 @@
+origin	https://github.com/HUART1848/API-2021-UDP-Orchestra.git (fetch)
+origin	https://github.com/HUART1848/API-2021-UDP-Orchestra.git (push)
+upstream	https://github.com/HEIGVD-Course-API/API-2021-UDP-Orchestra.git (fetch)
+upstream	https://github.com/HEIGVD-Course-API/API-2021-UDP-Orchestra.git (push)
+Starting auditor container "46a6630e4b28d47f730d12b29690d91ce1ec9df1b69c89d7f17eee1de932e3e7"
+Starting auditor container "d84fa796c0101c334d6cef2ed4b04f45c77190cf5136314584ec5dc8973fb3d7"
+Starting auditor container "e12cd3e52fae2f38a6b099279a2b7857f45cc9b6b9919e096783e4e3e47249ec"
+Starting auditor container "efa4068efad9a768d6b1ea65d0e068b6c6bc63b7aff2a8f4ffedf2b353b90226"
+Starting auditor container "94c7cbf5567d7f9368e107fd475cd1f24e11cd7457048ceff1eddc9393c9c875"
+Starting auditor container "384772d740cf3258eb0c65ea6bddf85d1b32dc1174429f47c0aec67c9865547b"
+Starting auditor container "20fea4643579c2e761ce2b0292fec607a5cf6b5f785be3098e4ad26720e9a54e"
+Starting auditor container "cf98ab10d4956582c20883ac56c531589750e483589a1c6c0fb1b1e3bc852b39"
+Starting auditor container "4d55055aeb8d35037bc9725280cba00514ce4e72562efa256d92ebd40418df3f"
+Starting auditor container "e67f4e438598609b9bfb0d25c304de72cf583857c8a4b96188c081565254119f"
+Starting auditor container "29d3436130e88ff1fce2f0473f743044e0ffd0ec3a6da2fab026e179b3cf8482"
+11 containers have been started.
+46a6630e4b28d47f730d12b29690d91ce1ec9df1b69c89d7f17eee1de932e3e7 : --experimental-modules,index.js,piano
+94c7cbf5567d7f9368e107fd475cd1f24e11cd7457048ceff1eddc9393c9c875 : --experimental-modules,index.js,trumpet
+efa4068efad9a768d6b1ea65d0e068b6c6bc63b7aff2a8f4ffedf2b353b90226 : --experimental-modules,index.js,violin
+384772d740cf3258eb0c65ea6bddf85d1b32dc1174429f47c0aec67c9865547b : --experimental-modules,index.js,trumpet
+29d3436130e88ff1fce2f0473f743044e0ffd0ec3a6da2fab026e179b3cf8482 : --experimental-modules,index.js,trumpet
+20fea4643579c2e761ce2b0292fec607a5cf6b5f785be3098e4ad26720e9a54e : --experimental-modules,index.js,violin
+cf98ab10d4956582c20883ac56c531589750e483589a1c6c0fb1b1e3bc852b39 : --experimental-modules,index.js,violin
+e12cd3e52fae2f38a6b099279a2b7857f45cc9b6b9919e096783e4e3e47249ec : --experimental-modules,index.js,drum
+4d55055aeb8d35037bc9725280cba00514ce4e72562efa256d92ebd40418df3f : --experimental-modules,index.js,drum
+e67f4e438598609b9bfb0d25c304de72cf583857c8a4b96188c081565254119f : --experimental-modules,index.js,piano
+d84fa796c0101c334d6cef2ed4b04f45c77190cf5136314584ec5dc8973fb3d7 : node,--experimental-modules,index.js
